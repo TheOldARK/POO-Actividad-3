@@ -9,7 +9,7 @@ public class Capitulo_3_Ejercicio_19 {
     }
 
     private static void createAndShowGUI() {
-        JFrame frame = new JFrame("Cálculo de Triángulo");
+        JFrame frame = new JFrame("Capitulo 3 Ejercicio 19");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setSize(400, 300);
         frame.setLayout(new BorderLayout());

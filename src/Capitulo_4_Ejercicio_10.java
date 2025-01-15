@@ -9,7 +9,7 @@ public class Capitulo_4_Ejercicio_10 {
     }
 
     private static void createAndShowGUI() {
-        JFrame frame = new JFrame("Cálculo de Matrícula");
+        JFrame frame = new JFrame("Capitulo 4 Ejercicio 10");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setSize(500, 300);
         frame.setLayout(new BorderLayout());

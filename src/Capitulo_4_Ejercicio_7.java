@@ -9,7 +9,7 @@ public class Capitulo_4_Ejercicio_7 {
     }
 
     private static void createAndShowGUI() {
-        JFrame frame = new JFrame("Comparación de Números");
+        JFrame frame = new JFrame("Capitulo 4 Ejercicio 7");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setSize(400, 200);
         frame.setLayout(new BorderLayout());

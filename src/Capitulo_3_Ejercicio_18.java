@@ -9,7 +9,7 @@ public class Capitulo_3_Ejercicio_18 {
     }
 
     private static void createAndShowGUI() {
-        JFrame frame = new JFrame("Cálculo de Salario");
+        JFrame frame = new JFrame("Capitulo 3 Ejercicio 18");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setSize(400, 400);
         frame.setLayout(new BorderLayout());

@@ -9,7 +9,7 @@ public class Capitulo_4_Ejercicio_23 {
     }
 
     private static void createAndShowGUI() {
-        JFrame frame = new JFrame("Soluciones de Ecuación Cuadrática");
+        JFrame frame = new JFrame("Capitulo 4 Ejercicio 23");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setSize(500, 300);
         frame.setLayout(new BorderLayout());
